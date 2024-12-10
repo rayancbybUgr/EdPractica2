@@ -1,0 +1,41 @@
+Don Quijote de la Mancha,Miguel de Cervantes,863,1605
+Moby Dick,Herman Melville,635,1851
+La Ilíada,Homero,704,-800
+La Odisea,Homero,384,-725
+Crimen y castigo,Fiódor Dostoyevski,671,1866
+Los Miserables,Victor Hugo,1488,1862
+Guerra y paz,León Tolstói,1225,1869
+Orgullo y prejuicio,Jane Austen,432,1813
+Cien años de soledad,Gabriel García Márquez,417,1967
+El retrato de Dorian Gray,Oscar Wilde,254,1890
+Madame Bovary,Gustave Flaubert,345,1857
+Fausto,Johann Wolfgang von Goethe,464,1808
+En busca del tiempo perdido,Marcel Proust,4215,1913
+El Conde de Montecristo,Alexandre Dumas,1276,1844
+El extranjero,Albert Camus,159,1942
+Anna Karénina,León Tolstói,864,1877
+Ulises,James Joyce,730,1922
+El sonido y la furia,William Faulkner,326,1929
+El Gran Gatsby,F. Scott Fitzgerald,180,1925
+Las aventuras de Huckleberry Finn,Mark Twain,366,1884
+1984,George Orwell,328,1949
+Rebelión en la granja,George Orwell,112,1945
+El guardián entre el centeno,J. D. Salinger,277,1951
+Drácula,Bram Stoker,418,1897
+Frankenstein,Mary Shelley,280,1818
+El proceso,Franz Kafka,304,1925
+Divina Comedia,Dante Alighieri,928,1320
+Los hermanos Karamázov,Fiódor Dostoyevski,796,1880
+El tambor de hojalata,Günter Grass,600,1959
+Las uvas de la ira,John Steinbeck,464,1939
+Fahrenheit 451,Ray Bradbury,158,1953
+El viejo y el mar,Ernest Hemingway,127,1952
+Jane Eyre,Charlotte Brontë,500,1847
+David Copperfield,Charles Dickens,928,1850
+La metamorfosis,Franz Kafka,201,1915
+Don Juan,Lord Byron,480,1824
+Los viajes de Gulliver,Jonathan Swift,306,1726
+La isla del tesoro,Robert Louis Stevenson,240,1883
+Corazón de las tinieblas,Joseph Conrad,176,1899
+El Príncipe,Nicolás Maquiavelo,140,1532
+Las flores del mal,Charles Baudelaire,144,1857

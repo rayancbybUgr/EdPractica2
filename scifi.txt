@@ -1,0 +1,41 @@
+Dune,Frank Herbert,688,1965
+Neuromante,William Gibson,271,1984
+Fahrenheit 451,Ray Bradbury,158,1953
+El juego de Ender,Orson Scott Card,357,1985
+Fundación,Isaac Asimov,255,1951
+1984,George Orwell,328,1949
+Crónicas marcianas,Ray Bradbury,256,1950
+El hombre en el castillo,Philip K. Dick,259,1962
+Hyperion,Dan Simmons,482,1989
+Solaris,Stanisław Lem,204,1961
+El día de los trífidos,John Wyndham,304,1951
+Un mundo feliz,Aldous Huxley,311,1932
+Jurassic Park,Michael Crichton,448,1990
+La guerra de los mundos,H.G. Wells,288,1898
+Soy leyenda,Richard Matheson,160,1954
+Los propios dioses,Isaac Asimov,288,1972
+Snow Crash,Neal Stephenson,470,1992
+Las estrellas mi destino,Alfred Bester,208,1956
+El fin de la infancia,Arthur C. Clarke,224,1953
+El juego de los androides,Philip K. Dick,210,1968
+Metro 2033,Dmitry Glukhovsky,460,2002
+El Eternauta,Héctor Germán Oesterheld,368,1957
+El planeta de los simios,Pierre Boulle,264,1963
+Ciudad,Clifford D. Simak,320,1952
+El hombre bicentenario,Isaac Asimov,256,1976
+Los desposeídos,Ursula K. Le Guin,341,1974
+La mano izquierda de la oscuridad,Ursula K. Le Guin,256,1969
+2001: Una odisea espacial,Arthur C. Clarke,297,1968
+La luna es una cruel amante,Robert A. Heinlein,384,1966
+Contact,Carl Sagan,432,1985
+El problema de los tres cuerpos,Liu Cixin,400,2008
+La invasión de los ladrones de cuerpos,Jack Finney,224,1955
+El marciano,Andy Weir,385,2011
+Los juegos del hambre,Suzanne Collins,374,2008
+Los cantos de Hyperion,Dan Simmons,512,1989
+Ubik,Philip K. Dick,224,1969
+El fin de la eternidad,Isaac Asimov,191,1955
+El sueño de hierro,Norman Spinrad,288,1972
+Valis,Philip K. Dick,240,1981
+Perdido Street Station,China Miéville,710,2000
+Altered Carbon,Richard K. Morgan,375,2002
